@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /Users/hanqing/workspace/RL/hw4/HW4/build/CLion
+-- Found OpenMP_C: -Xpreprocessor -fopenmp -I/usr/local/include (found version "3.1") 
+-- Found OpenMP_CXX: -Xpreprocessor -fopenmp -I/usr/local/include (found version "3.1") 
+-- Found OpenMP: TRUE (found version "3.1")  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hanqing/workspace/RL/hw4/HW4/build/CLion/cmake-build-release
